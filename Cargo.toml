@@ -1,0 +1,6 @@
+[package]
+name = "ffi"
+version = "0.1.0"
+authors = ["tomcat1911 <maslovtimofey@gmail.com>"]
+
+[dependencies]
